@@ -21,7 +21,6 @@ For topics and ideas to niche to fit in one place
 ## Reading
 
 1. [Essential Maths for programmers](https://www.freecodecamp.org/news/learn-algebra-to-improve-your-programming-skills/) - Very relevant especially for self-taught programmers.
-2. [The Stony Brook Algorithm Repository - Steven Skiena](http://algorist.com/algorist.html) - a collection of already made algorithms, their implementations in code for C#, C, C++, Java, Fortran, Python, Javascript
 
 ## Videos
 
@@ -45,6 +44,7 @@ What other resources can you find? Try out,
 1. [Competitive Programming](https://cpbook.net/) contains from easy to in depth practical analysis of data structures for implementation.
 2. [Book - Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844) is heavily recommended in data structure courses, but it can be heavy and too much to digest since it is a really long book. If you're already familiar with all of these, and are still reading, but want some theoratical sense of what the underlying ideas are behind the Data Structures / Algorithms, please do read this book.
 3. [The Algorithm Design Manual](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202) is an excellent hands on guide for quickly getting to the practical parts of how algorithms work. A must recommend.
+3. [The Stony Brook Algorithm Repository - Steven Skiena](http://algorist.com/algorist.html) - a collection of already made algorithms, their implementations in code for C#, C, C++, Java, Fortran, Python, Javascript
 
 ## Videos
 
