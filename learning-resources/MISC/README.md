@@ -21,6 +21,7 @@ For topics and ideas to niche to fit in one place
 ## Reading
 
 1. [Essential Maths for programmers](https://www.freecodecamp.org/news/learn-algebra-to-improve-your-programming-skills/) - Very relevant especially for self-taught programmers.
+2. [The Stony Brook Algorithm Repository - Steven Skiena](http://algorist.com/algorist.html) - a collection of already made algorithms, their implementations in code for C#, C, C++, Java, Fortran, Python, Javascript
 
 ## Videos
 
